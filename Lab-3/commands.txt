@@ -1,2 +1,2 @@
 xxd -b filename открывает файл в бинарном виде
-diff -q Task1/start.txt Task1/decoded.txt сравнение файлов (если вывода нет, файлы идентичны)
+diff -q task1/start.txt task1/decoded.txt сравнение файлов (если вывода нет, файлы идентичны)
